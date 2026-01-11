@@ -21,5 +21,5 @@ Berikut adalah tampilan antarmuka aplikasi BMR Calculator:
 
 | Halaman Input | Pemilihan Metode | Halaman Hasil |
 | :---: | :---: | :---: |
-| ![Input 1](screenshots/input_page1.PNG), ![Input 2](screenshots/input_page2.PNG), ![Input 3](screenshots/input_page3.PNG) | ![Method Selection](screenshots/method_select.PNG) | ![Result 1](screenshots/result_page.PNG), ![Result 2](screenshots/result_page2.PNG), ![Result 3](screenshots/result_page3.PNG) |
+| ![Input 1](screenshots/input_page1.PNG), ![Input 2](screenshots/input_page2.PNG), ![Input 3](screenshots/input_page3.PNG) | ![Method Selection](screenshots/method_select.PNG) | ![Result 1](screenshots/result_page1.PNG), ![Result 2](screenshots/result_page2.PNG), ![Result 3](screenshots/result_page3.PNG) |
 
