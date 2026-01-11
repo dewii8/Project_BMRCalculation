@@ -1,16 +1,25 @@
-# bmr_calculator
+# BMR CALCULATOR
 
-A new Flutter project.
+Aplikasi **BMR Calculator** adalah aplikasi berbasis mobile yang dibangun menggunakan framework **Flutter**. Aplikasi ini dirancang untuk membantu pengguna menghitung *Basal Metabolic Rate* (BMR) atau jumlah kalori minimal yang dibutuhkan tubuh saat beristirahat total, menggunakan tiga metode perhitungan ilmiah yang berbeda.
 
-## Getting Started
+**Wijayaning Dewi Ramadhani - K3523076**
 
-This project is a starting point for a Flutter application.
+## 📝 Deskripsi Proyek
+Merupakan tugas mata kuliah **Pemrograman Perangkat Bergerak (PPB)** Semester 5. Fokus utama aplikasi ini adalah memberikan akurasi perhitungan BMR dengan menyediakan opsi metode yang sesuai dengan kondisi fisik pengguna (termasuk kadar lemak tubuh).
 
-A few resources to get you started if this is your first Flutter project:
+### Fitur Utama:
+* **Tiga Metode Perhitungan:**
+    1.  **Mifflin-St Jeor:** Standar modern yang paling umum digunakan.
+    2.  **Harris-Benedict:** Rumus klasik yang telah direvisi untuk akurasi lebih baik.
+    3.  **Katch-McArdle:** Sangat akurat bagi pengguna yang mengetahui persentase lemak tubuh (*Body Fat*).
+* **UI/UX Modern:** Menggunakan tema gelap (Dark Mode) yang nyaman di mata.
+* **Slider Interaktif:** Memudahkan input tinggi badan.
+* **Responsif:** Berjalan dengan baik di berbagai ukuran layar Android/iOS.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+Berikut adalah tampilan antarmuka aplikasi BMR Calculator:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Halaman Input | Pemilihan Metode | Halaman Hasil |
+| :---: | :---: | :---: |
+| ![Input 1](screenshots/input_page1.png), ![Input 2](screenshots/input_page2.png), ![Input 3](screenshots/input_page3.png) | ![Method Selection](screenshots/method_select.png) | ![Result 1](screenshots/result_page.png), ![Result 2](screenshots/result_page2.png), ![Result 3](screenshots/result_page3.png) |
+
